@@ -1,0 +1,58 @@
+saison,date,competition,tour,adversaire,lieu,buts_est,buts_adversaire,resultat,buteurs_est,notes
+2025-26,2025-08-03,Supercoupe de Tunisie,Finale,Stade Tunisien,neutre,1,0,V,Belaïli (pen),Vainqueur de la Supercoupe
+2025-26,2025-08-09,Ligue 1,J1,AS Gabès,extérieur,0,0,N,,
+2025-26,2025-08-15,Ligue 1,J2,US Monastir,domicile,1,1,N,,
+2025-26,2025-08-21,Ligue 1,J3,JS Kairouan,extérieur,4,0,V,,
+2025-26,2025-08-28,Ligue 1,J4,AS Soliman,domicile,2,0,V,,
+2025-26,2025-09-13,Ligue 1,J5,Stade Tunisien,extérieur,0,1,D,,
+2025-26,2025-09-16,Ligue 1,J6,ES Métlaoui,domicile,2,0,V,,
+2025-26,2025-09-21,Ligue des champions CAF,Tour préliminaire 1 - aller,AS FAN (Niger),extérieur,3,0,V,Boualia; Diakité; Diakité,
+2025-26,2025-09-24,Ligue 1,J7,Olympique Béja,domicile,2,0,V,,
+2025-26,2025-09-27,Ligue des champions CAF,Tour préliminaire 1 - retour,AS FAN (Niger),domicile,4,1,V,Belaïli; Sasse; Keita; Meriah (pen),Qualifié 7-1 cumulé
+2025-26,2025-10-01,Ligue 1,J8,AS Marsa,extérieur,3,0,V,,
+2025-26,2025-10-05,Ligue 1,J9,Étoile du Sahel,domicile,1,0,V,Sasse,
+2025-26,2025-10-18,Ligue des champions CAF,Tour préliminaire 2 - aller,Rahimo FC (Burkina Faso),extérieur,1,0,V,Danho,
+2025-26,2025-10-22,Ligue 1,J10,ES Zarzis,extérieur,0,0,N,,
+2025-26,2025-10-26,Ligue des champions CAF,Tour préliminaire 2 - retour,Rahimo FC (Burkina Faso),domicile,3,0,V,Jelassi; Danho; Jabri,Qualifié 4-0 cumulé
+2025-26,2025-10-30,Ligue 1,J11,CA Bizertin,domicile,2,0,V,,
+2025-26,2025-11-02,Ligue 1,J12,CS Sfaxien,extérieur,2,1,V,Jelassi (pen); Belaïli,
+2025-26,2025-11-06,Ligue 1,J13,JS El Omrane,domicile,4,0,V,Belaïli (pen); Jebali; Maacha; Jelassi,
+2025-26,2025-11-09,Ligue 1,J14,Club Africain,extérieur,0,0,N,,Derby de Tunis
+2025-26,2025-11-22,Ligue des champions CAF,Phase de groupes J1,Stade Malien (Mali),domicile,0,0,N,,
+2025-26,2025-11-29,Ligue des champions CAF,Phase de groupes J2,Petro de Luanda (Angola),extérieur,1,1,N,Diakité,
+2025-26,2026-01-10,Ligue 1,J15,US Ben Guerdane,domicile,4,0,V,,
+2025-26,2026-01-15,Ligue 1,J16,AS Gabès,domicile,2,1,V,Sasse (pen); Jelassi (pen),
+2025-26,2026-01-19,Ligue 1,J17,US Monastir,extérieur,1,2,D,,
+2025-26,2026-01-24,Ligue des champions CAF,Phase de groupes J3,Simba SC (Tanzanie),domicile,1,0,V,Diarra,
+2025-26,2026-01-27,Ligue 1,J18,JS Kairouan,domicile,1,0,V,,
+2025-26,2026-02-01,Ligue des champions CAF,Phase de groupes J4,Simba SC (Tanzanie),extérieur,2,2,N,,
+2025-26,2026-02-08,Ligue des champions CAF,Phase de groupes J5,Stade Malien (Mali),extérieur,0,1,D,,
+2025-26,2026-02-14,Ligue des champions CAF,Phase de groupes J6,Petro de Luanda (Angola),domicile,2,0,V,,
+2025-26,2026-02-17,Ligue 1,J19,AS Soliman,extérieur,3,0,V,Danho; Boualia; Ben Hamida,
+2025-26,2026-02-21,Ligue 1,J20,Stade Tunisien,domicile,1,0,V,,
+2025-26,2026-02-25,Ligue 1,J21,ES Métlaoui,extérieur,1,1,N,,
+2025-26,2026-03-01,Ligue 1,J22,Olympique Béja,extérieur,3,0,V,,
+2025-26,2026-03-07,Ligue 1,J23,AS Marsa,domicile,1,0,V,,
+2025-26,2026-03-15,Ligue des champions CAF,Quart de finale - aller,Al Ahly (Égypte),domicile,1,0,V,,
+2025-26,2026-03-21,Ligue des champions CAF,Quart de finale - retour,Al Ahly (Égypte),extérieur,3,2,V,,Qualifié 4-2 cumulé
+2025-26,2026-03-28,Coupe de Tunisie,16es de finale,WS El Hamma,extérieur,5,0,V,,Plus large victoire de la saison
+2025-26,2026-04-04,Ligue 1,J24,Étoile du Sahel,extérieur,0,0,N,,
+2025-26,2026-04-12,Ligue des champions CAF,Demi-finale - aller,Mamelodi Sundowns (Afrique du Sud),domicile,0,1,D,,
+2025-26,2026-04-18,Ligue des champions CAF,Demi-finale - retour,Mamelodi Sundowns (Afrique du Sud),extérieur,0,1,D,,Éliminé 0-2 cumulé
+2025-26,2026-04-23,Ligue 1,J25,ES Zarzis,domicile,2,2,N,,
+2025-26,2026-04-26,Ligue 1,J26,CA Bizertin,extérieur,1,1,N,,
+2025-26,2026-04-30,Ligue 1,J27,CS Sfaxien,domicile,0,0,N,,
+2025-26,2026-05-04,Ligue 1,J28,JS El Omrane,extérieur,1,0,V,,
+2025-26,2026-05-10,Ligue 1,J29,Club Africain,domicile,0,1,D,,Derby perdu sur un but à la dernière minute; titre pour le Club Africain
+2025-26,2026-05-14,Ligue 1,J30,US Ben Guerdane,extérieur,1,0,V,Rafia,Fin de saison: 2e
+2025-26,2026-05-17,Coupe de Tunisie,8es de finale,ES Métlaoui,extérieur,3,1,V,,
+2025-26,2026-05-21,Coupe de Tunisie,Quart de finale,BS Bou Hajla,extérieur,3,0,V,Ben Ali; Dhaou; Touati,
+2025-26,2026-05-24,Coupe de Tunisie,Demi-finale,JS El Omrane,extérieur,1,0,V,Danho,Lieu à vérifier
+2025-26,2026-05-31,Coupe de Tunisie,Finale,ES Zarzis,neutre,1,0,V,,Vainqueur de la Coupe de Tunisie (lieu à vérifier)
+2026-27,2026-08-23,Ligue 1,J1,Étoile du Sahel,domicile,3,2,V,Mahmoud; Hadj Ali; Hadj Ali,
+2026-27,2026-08-30,Ligue 1,J2,JS El Omrane,extérieur,1,3,D,,
+2026-27,2026-09-06,Ligue 1,J3,AS Marsa,domicile,2,1,V,,
+2026-27,2026-09-13,Ligue 1,J4,CS Hammam-Lif,extérieur,1,0,V,,
+2026-27,2026-10-10,Ligue 1,J5,Olympique Béja,domicile,3,1,V,,
+2026-27,2026-10-18,Ligue des champions CAF,Tour préliminaire 2 - aller,Asswehly SC (Libye),extérieur,0,1,D,,Pénalty adverse à la 63e
+2026-27,2026-10-24,Ligue des champions CAF,Tour préliminaire 2 - retour,Asswehly SC (Libye),domicile,1,0,V,Faraj,Cumulé 1-1; qualifié aux tirs au but 3-1
